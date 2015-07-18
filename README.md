@@ -1,6 +1,6 @@
 # Dynamic clustering of contextual multi-armed bandits
 
-**The README.pdf file explains in details the implemented algorithms. What follows is a non-exhaustive description of the approach**
+**The README.pdf file explains in details the implemented algorithms. What follows is a non-exhaustive description of the approach.**
 
 The reinforcement learning algorithms implemented here on **MATLAB** have been described in the article of Nguyen and Lauw, *Dynamic Clustering of Contextual Multi-Armed Bandits*, and propose a new framework for recommender systems and Multi-Armed Bandits.
 
